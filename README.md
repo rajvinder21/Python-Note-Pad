@@ -21,7 +21,7 @@ You can just download my code and run this command. (no need of external package
 python index.py
 ```
 OR You can just download .exe file
-[**`NotePad.exe`**](https://github.com/rajvinder21/notepad.exe)
+[**`NotePad.exe`**](https://github.com/rajvinder21/Python-Note-Pad/blob/main/Note_Pad.exe)
 
 # License
 <a href="https://choosealicense.com/licenses/mit/">MIT<a>
