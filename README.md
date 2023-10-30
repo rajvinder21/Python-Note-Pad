@@ -6,11 +6,7 @@ I've created a straightforward notepad application in Python using Tkinter. This
 
 ![Python NotePad](./bgImage.png)
 ## Features
-In this applicaton, I added all the functionality that is required in the notepad like<br> 
-You can saving a file in txt form , open a txt file, <br>
-You can Edit a text file like  cut , copy, paste. <br>
-You can change size of view like  zoom in and zoom out,
-and some other features
+In this application, I've incorporated all the necessary notepad functionalities, including the ability to save a file in text format, open text files, and perform text editing operations like cut, copy, and paste. Additionally, you can adjust the view size with options for zooming in and out, along with several other features
 
 ## Installing
 You can just download my code and run this command. (no need of external package).
