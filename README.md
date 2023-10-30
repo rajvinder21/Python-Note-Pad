@@ -1,10 +1,7 @@
 
 # Note Pad
 ##  A simple Python Tkinter GUI application for Managing Text Files
-I created a simple notepad in Python using Tkinter .<br>
-This Notepad GUI will consist of various menu like file and edit, <br>
-using which all functionalities like saving the file, opening a file, editing,
-cut and paste can be done.
+I've created a straightforward notepad application in Python using Tkinter. This Notepad GUI includes various menus such as "File" and "Edit." These menus provide functionality for tasks like saving files, opening files, and performing editing actions like cut and paste.
 
 
 ![Python NotePad](./bgImage.png)
